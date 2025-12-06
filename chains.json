@@ -63434,4 +63434,32 @@
             "ic_home_logo": "https://asset.movachain.com/logo/Mova-TP-Icon-01.png"
         }
     }
+
+    {
+    "name": "Bri Chain",
+    "chainId": 10984,
+    "shortName": "bri",
+    "chain": "BRI",
+    "network": "mainnet",
+    "networkId": 10984,
+    "nativeCurrency": {
+        "name": "BRI",
+        "symbol": "BRI",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://mainnet-rpc.briscan.io"
+    ],
+    "faucets": [],
+    "infoURL": "https://briscan.io/",
+    "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/icon-bri-select.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/icon-bri-unselect.png",
+        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/icon-bri-unselect-dark.png",
+        "color_chain_bg": "0x000000",
+        "color_chain_text": "0xFFFFFF"
+    }
+}
+
+
 ]
