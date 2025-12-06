@@ -63435,7 +63435,7 @@
         }
     }
 
-    {
+   {
     "name": "Bri Chain",
     "chainId": 10984,
     "shortName": "bri",
@@ -63462,4 +63462,6 @@
 }
 
 
+
 ]
+
